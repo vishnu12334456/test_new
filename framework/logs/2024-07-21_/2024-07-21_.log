@@ -1,0 +1,170 @@
+2024-07-21 14:35:48,120 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 14:35:48,459 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 14:35:48,464 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 14:35:48,464 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 14:35:48,808 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:05:48,219 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:05:49,174 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:05:49,277 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:05:49,277 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:05:49,988 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:06:52,946 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:06:53,675 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:06:53,756 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:06:53,756 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:06:54,299 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:07:13,860 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:07:14,633 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:07:14,638 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:07:14,638 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:07:16,185 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:12:31,991 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:12:32,736 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:12:32,749 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:12:32,749 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:12:33,489 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:13:02,805 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:13:03,551 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:13:03,645 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:13:03,645 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:13:03,991 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:14:20,462 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:14:21,017 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:14:21,031 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:14:21,031 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:14:22,087 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:14:41,998 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:14:42,558 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:14:42,566 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:14:42,566 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:14:43,341 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:23:37,180 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:23:37,794 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:23:38,458 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:23:38,458 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:23:39,003 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:26:59,086 INFO conftest.py'' setup 18 :: this is before test
+2024-07-21 17:27:01,605 INFO conftest.py'' setup 20 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:27:03,188 INFO conftest.py'' setup 22 :: cleanup
+2024-07-21 17:27:03,189 INFO conftest.py'' setup 23 :: after test execution
+2024-07-21 17:27:03,968 INFO conftest.py'' setup 25 :: drives list before test are ['/dev/sda1', '/dev/sda2', '/dev/sda3']
+2024-07-21 17:35:10,204 INFO conftest.py'' setup 28 :: cleanup
+2024-07-21 17:35:10,204 INFO conftest.py'' setup 29 :: after test execution
+2024-07-21 17:47:07,596 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 17:47:08,489 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 17:47:08,489 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 17:50:55,066 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 17:50:55,950 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 17:50:55,950 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 17:53:30,894 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 17:53:31,199 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 17:53:31,200 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 17:55:30,561 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 17:55:31,489 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 17:55:31,490 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 17:56:14,981 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 17:56:17,483 INFO test_file2.py'' test_server_uptime1 10 ::  12:26:17 up  4:02,  6 users,  load average: 0.03, 0.03, 0.00
+
+2024-07-21 17:56:17,484 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 17:56:17,484 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:00:22,557 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:00:23,828 INFO test_file2.py'' test_server_uptime1 10 ::  12:30:23 up  4:06,  6 users,  load average: 0.16, 0.04, 0.01
+
+2024-07-21 18:00:23,829 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:00:23,829 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:00:23,833 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:00:24,743 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:00:24,747 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:00:24,747 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:02:32,137 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:02:33,112 INFO test_file2.py'' test_server_uptime1 10 ::  12:32:32 up  4:09,  6 users,  load average: 0.15, 0.05, 0.01
+
+2024-07-21 18:02:33,115 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:02:33,116 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:02:33,118 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:02:34,573 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:02:34,576 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:02:34,577 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:02:34,581 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:02:34,952 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:02:34,952 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:03:27,316 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:03:28,455 INFO test_file2.py'' test_server_uptime1 10 ::  12:33:28 up  4:10,  6 users,  load average: 0.06, 0.04, 0.00
+
+2024-07-21 18:03:28,459 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:03:28,459 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:03:28,463 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:03:29,315 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:03:29,318 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:03:29,318 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:03:29,320 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:03:29,763 INFO test_file2.py'' test_usets 24 :: this is about users
+2024-07-21 18:03:29,766 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:03:29,766 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:07:17,362 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:07:18,240 INFO test_file2.py'' test_server_uptime1 10 ::  12:37:17 up  4:13,  8 users,  load average: 0.00, 0.01, 0.00
+
+2024-07-21 18:07:18,243 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:07:18,243 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:07:18,248 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:07:18,690 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:07:18,693 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:07:18,694 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:07:18,698 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:07:19,147 INFO test_file2.py'' test_usets 24 :: this is about users
+2024-07-21 18:07:19,151 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:07:19,152 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:07:19,156 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:07:19,358 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:07:19,359 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:04,951 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:08:05,770 INFO test_file2.py'' test_server_uptime1 10 ::  12:38:05 up  4:14,  8 users,  load average: 0.00, 0.01, 0.00
+
+2024-07-21 18:08:05,774 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:08:05,774 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:05,779 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:08:06,392 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:08:06,395 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:08:06,395 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:06,399 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:08:06,878 INFO test_file2.py'' test_usets 24 :: this is about users
+2024-07-21 18:08:06,882 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:08:06,882 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:06,886 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:08:07,600 INFO test_file2.py'' test_partition 31 :: this about create partition
+2024-07-21 18:08:07,603 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:08:07,603 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:57,898 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:08:58,634 INFO test_file2.py'' test_server_uptime1 10 ::  12:38:58 up  4:15,  8 users,  load average: 0.03, 0.02, 0.00
+
+2024-07-21 18:08:58,636 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:08:58,636 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:58,639 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:08:59,851 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:08:59,854 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:08:59,855 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:08:59,859 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:09:00,638 INFO test_file2.py'' test_usets 24 :: this is about users
+2024-07-21 18:09:00,641 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:09:00,642 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:09:00,647 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:09:01,350 INFO test_file2.py'' test_partition 31 :: this about create partition
+2024-07-21 18:09:01,352 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:09:01,353 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:29:41,525 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:29:42,022 INFO test_file2.py'' test_server_uptime1 10 ::  12:59:41 up  4:36, 10 users,  load average: 0.00, 0.01, 0.00
+
+2024-07-21 18:29:42,026 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:29:42,027 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:29:42,036 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:29:42,700 INFO test_file2.py'' test_biosinfo 18 :: this is about biosinfo
+2024-07-21 18:29:42,702 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:29:42,703 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:29:42,706 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:29:43,164 INFO test_file2.py'' test_usets 24 :: this is about users
+2024-07-21 18:29:43,167 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:29:43,168 INFO conftest.py'' setup 30 :: after test execution
+2024-07-21 18:29:43,170 INFO conftest.py'' setup 18 :: before connected the server
+2024-07-21 18:29:43,891 INFO test_file2.py'' test_partition 31 :: this about create partition
+2024-07-21 18:29:43,893 INFO conftest.py'' setup 29 :: cleanup
+2024-07-21 18:29:43,893 INFO conftest.py'' setup 30 :: after test execution
